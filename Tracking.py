@@ -13,6 +13,8 @@ class Tracking_info(Base):
     Connected_mac = Column(String(255))
     Signal = Column(String(255))
     Raspberry = Column(String(255))
+    APName = Column(String(255))
+    BussName = Column(String(255))
 
 server = '041-L-RAMONMOLO'
 database = 'Tracking'
