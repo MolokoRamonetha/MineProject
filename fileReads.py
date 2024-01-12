@@ -10,7 +10,8 @@ def matchAPAndBus(connected_mac,date,time,signal,Raspberry,df=df):
     for index, row in df.iterrows():
         if mac_split(row["Unnamed: 2"]) == connected_mac:
              return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,row["Unnamed: 3"],row["Unnamed: 8"])
-
+        else:
+             return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,"No Ap Name","No Bus Name")
 
 def mac_split(input_string):
     mac_address_pattern = re.compile(r'MAC: (\S+)')
