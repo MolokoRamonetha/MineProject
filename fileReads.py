@@ -1,33 +1,28 @@
 import pandas as pd
 from TrackingDto import TrackingInfoDTO
 import re
-df = pd.read_excel("info.xlsx")
+d_ap = pd.read_csv("ap.csv")
+d_bus = pd.read_csv("bus.csv")
 
-
-
-def matchAPAndBus(connected_mac,date,time,signal,Raspberry,df=df):
+# def matchAPAndBus(connected_mac,date,time,signal,Raspberry,df=df):
     
+#     for index, row in df.iterrows():
+#         if mac_split(row["Unnamed: 2"]) == connected_mac:
+#              return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,row["Unnamed: 3"],row["Unnamed: 8"])
+#         else:
+#              return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,"No Ap Name","No Bus Name")
+def matchAPAndBus(connected_mac,date,time,signal,Raspberry,df=d_ap,d_bus=d_bus):
     for index, row in df.iterrows():
-        if mac_split(row["Unnamed: 2"]) == connected_mac:
-             return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,row["Unnamed: 3"],row["Unnamed: 8"])
-        else:
-             return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,"No Ap Name","No Bus Name")
+        if row['mac_address'][:14] == connected_mac[:14]: 
+            ap_name = row['apName']
+            break
+        else: ap_name = "Null"
+    for index_bus, row_bus in d_bus.iterrows():
+        if row_bus["mac_address"] == Raspberry: bus_name = row_bus["bus_name"]
+        else : bus_name = "Null"
+    return TrackingInfoDTO(date,time,connected_mac,signal,Raspberry,ap_name,bus_name)
+            # Access the values in each row
+            
 
-def mac_split(input_string):
-    mac_address_pattern = re.compile(r'MAC: (\S+)')
-
-    # Search for the MAC address in the input string
-    match = mac_address_pattern.search(input_string)
-
-    # Check if a match is found
-    if match:
-        mac_address = match.group(1)
-        print(f"Extracted MAC address: {mac_address}")
-        return mac_address
-    else:
-        print("No MAC address found in the input string.")
-        return None
-
-for index, row in df.head(5).iterrows():
-        print(row)
-    
+# Unit Testing
+# matchAPAndBus("70:0F:6A:0F:9B:04","2024-01-12","18:56:21",'-78 dBm', 'b8:27:eb:9b:3b:db')

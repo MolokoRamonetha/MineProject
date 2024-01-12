@@ -4,7 +4,7 @@ from Tracking import session,Tracking_info
 from TrackingDto import TrackingInfoDTO
 from fileReads import *
 
-file_path = 'Bus_055_Raw_Data.txt'  # Replace with the actual path to your text file
+file_path = "log154.txt"  # Replace with the actual path to your text file
 connection_list = []
 
 # Open the file in read mode
