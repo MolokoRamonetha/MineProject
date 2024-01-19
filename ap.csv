@@ -1,24 +1,24 @@
-apName,mac_address
-Lamp Room_,70:0F:6A:54:64:6
-Instrumentation Office_,70:0F:6A:0F:9B:0
-New Control Room_,70:0F:6A:54:68:4
-Electrical Workshop_,2C:5A:0F:05:82:E
-Shaft Incline_,70:0F:6A:B8:9F:C
-Old Server Room_,70:0F:6A:83:1E:0
-Trunk 1_,70:0F:6A:B8:9D:E
-Trunk 6_,70:0F:6A:B8:A9:8
-Trunk 3A_,70:0F:6A:27:15:6
-Trunk 3_,70:0F:6A:B8:98:C
-Trunk 3 Split 6_,70:0F:6A:27:12:C
-Trunk 3 Split 62_,70:0F:6A:B8:9F:A
-Trunk 7 Split 8_,70:0F:6A:B8:9B:0
-Trunk 6 Split 132_,70:0F:6A:B8:B5:0
-Trunk 7 Tail_,70:0F:6A:B8:9C:E
-Trunk 11 Split 49_,70:0F:6A:B8:A7:E
-Trunk 12_,5C:A6:2D:EE:6A:A
-G6_,70:0F:6A:B8:97:E
-Diesel Outside Workshop_,70:0F:6A:7D:29:2
-Sect 3 Inbye_,6C:31:0E:3D:5F:E
-Prime 2 Inbye_,4C:77:6D:60:B3:8
-Sect 9 Inbye_,70:0F:6A:B8:A4:E
-Sect 13 Inbye_,00:BE:75:16:EA:2
+apName,mac_address,location
+Lamp Room_,70:0F:6A:54:64:6,Surface
+Instrumentation Office_,70:0F:6A:0F:9B:0,Surface
+New Control Room_,70:0F:6A:54:68:4,Surface
+Electrical Workshop_,2C:5A:0F:05:82:E,Surface
+Shaft Incline_,70:0F:6A:B8:9F:C,Surface
+Old Server Room_,70:0F:6A:83:1E:0,Surface
+Trunk 1_,70:0F:6A:B8:9D:E,Underground
+Trunk 6_,70:0F:6A:B8:A9:8,Underground
+Trunk 3A_,70:0F:6A:27:15:6,Underground
+Trunk 3_,70:0F:6A:B8:98:C,Underground
+Trunk 3 Split 6_,70:0F:6A:27:12:C,Underground
+Trunk 3 Split 62_,70:0F:6A:B8:9F:A,Underground
+Trunk 7 Split 8_,70:0F:6A:B8:9B:0,Underground
+Trunk 6 Split 132_,70:0F:6A:B8:B5:0,Underground
+Trunk 7 Tail_,70:0F:6A:B8:9C:E,Underground
+Trunk 11 Split 49_,70:0F:6A:B8:A7:E,Underground
+Trunk 12_,5C:A6:2D:EE:6A:A,Underground
+G6_,70:0F:6A:B8:97:E,Underground
+Diesel Outside Workshop_,70:0F:6A:7D:29:2,Underground
+Sect 3 Inbye_,6C:31:0E:3D:5F:E,Underground
+Prime 2 Inbye_,4C:77:6D:60:B3:8,Underground
+Sect 9 Inbye_,70:0F:6A:B8:A4:E,Underground
+Sect 13 Inbye_,00:BE:75:16:EA:2,Underground

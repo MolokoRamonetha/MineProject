@@ -15,6 +15,7 @@ class Tracking_info(Base):
     Raspberry = Column(String(255))
     APName = Column(String(255))
     BussName = Column(String(255))
+    APlocation = Column(String(255))
 
 server = '041-L-RAMONMOLO'
 database = 'Tracking'
@@ -25,8 +26,10 @@ connection_string = f'mssql+pyodbc://{username}:{password}@{server}/{database}?d
 
 
 engine = create_engine(connection_string, echo=True)
-Base.metadata.create_all(engine)
+# Base.metadata.drop_all(engine)
 
+
+Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
 
