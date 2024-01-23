@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine, Column, Integer, String, Sequence, Date,Time
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-import pyodbc
+import psycopg2
 Base = declarative_base()
 
 
@@ -22,7 +22,8 @@ database = 'Tracking'
 username = 'SA'
 password = 'LETHABO'
 
-connection_string = f'mssql+pyodbc://{username}:{password}@{server}/{database}?driver=ODBC+Driver+17+for+SQL+Server'
+# connection_string = f'mssql+pyodbc://{username}:{password}@{server}/{database}?driver=ODBC+Driver+17+for+SQL+Server'
+connection_string = "postgresql://postgres:TipeBonolo@localhost:5433/mine"
 
 
 engine = create_engine(connection_string, echo=True)
