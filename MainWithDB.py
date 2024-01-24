@@ -39,18 +39,22 @@ def schedule_job():
     unique_macs = set()
 
     def compare(info,result):
+        x = False
+        # print(len(result))
         for val in result:
-            if ((val.DateColumn==info.DateColumn) and val.TimeColumn == info.TimeColumn and val.Connected_mac==info.Connected_mac and val.Signal == info.Signal and val.Raspberry==info.Raspberry and val.APName == info.APName and val.BussName == info.BussName ):
-                return True
-            else:
-                return False
-    stmt = select(Tracking_info.DateColumn,Tracking_info.TimeColumn,Tracking_info.Connected_mac,Tracking_info.Signal,Tracking_info.Raspberry,Tracking_info.APName,Tracking_info.BussName,Tracking_info.APlocation)
-    result = session.execute(stmt)
-
+            if (not (val.DateColumn==info.DateColumn and val.TimeColumn == info.TimeColumn and val.Connected_mac==info.Connected_mac and val.Signal == info.Signal and val.Raspberry==info.Raspberry and val.APName == info.APName and val.BussName == info.BussName) ):
+                x = True
+                break
+ 
+        return x
+    stmt = select(Tracking_info.DateColumn,Tracking_info.TimeColumn,Tracking_info.Connected_mac,Tracking_info.Signal,Tracking_info.Raspberry,Tracking_info.APName,Tracking_info.BussName)
+    results = session.execute(stmt)
+   
+    
     # Loop through filtered strings
     for filtered_string in filtered_strings:
         match = re.match(pattern, filtered_string)
-
+        
         if match:
             datetime_part = match.group(1)
             text_part = match.group(2)
@@ -74,9 +78,12 @@ def schedule_job():
             # TrackingInfoDTO(date,time,mac_address,info_dict.get("Signal Strength"),info_dict.get("Raspberry Pi MAC"))
 
             info = matchAPAndBus(mac_address,date,time,info_dict.get("Signal Strength"),info_dict.get("Raspberry Pi MAC"))
-            
-            if compare(info,result):
+            # print("print here",compare(info,results))
+           
 
+            
+            if (not compare(info,results)):
+            
                 session.add(Tracking_info(
                     DateColumn=info.DateColumn,
                     TimeColumn=info.TimeColumn,
