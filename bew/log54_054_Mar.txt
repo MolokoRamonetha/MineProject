@@ -1,0 +1,773 @@
+[[2024-03-07 11:22:42]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:22:52]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:03]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -88 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:14]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -89 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:27]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:37]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:48]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -88 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:23:59]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:25:12]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9D:E4   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:25:22]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9D:E4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:25:34]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9D:E4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:25:49]] Not connected to Wi-Fi
+[[2024-03-07 11:25:59]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -67 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:26:09]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:26:19]] Not connected to Wi-Fi
+[[2024-03-07 11:26:29]] Not connected to Wi-Fi
+[[2024-03-07 11:26:39]] Not connected to Wi-Fi
+[[2024-03-07 11:26:49]] Not connected to Wi-Fi
+[[2024-03-07 11:26:59]] Not connected to Wi-Fi
+[[2024-03-07 11:27:09]] Not connected to Wi-Fi
+[[2024-03-07 11:27:19]] Not connected to Wi-Fi
+[[2024-03-07 11:27:29]] Not connected to Wi-Fi
+[[2024-03-07 11:27:39]] Not connected to Wi-Fi
+[[2024-03-07 11:27:50]] Not connected to Wi-Fi
+[[2024-03-07 11:28:00]] Not connected to Wi-Fi
+[[2024-03-07 11:28:10]] Not connected to Wi-Fi
+[[2024-03-07 11:28:20]] Not connected to Wi-Fi
+[[2024-03-07 11:28:30]] Not connected to Wi-Fi
+[[2024-03-07 11:28:40]] Not connected to Wi-Fi
+[[2024-03-07 11:28:50]] Not connected to Wi-Fi
+[[2024-03-07 11:29:00]] Not connected to Wi-Fi
+[[2024-03-07 11:29:10]] Not connected to Wi-Fi
+[[2024-03-07 11:29:20]] Not connected to Wi-Fi
+[[2024-03-07 11:29:30]] Connected to Wi-Fi AP with MAC: 70:0F:6A:27:15:64   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:29:40]] Connected to Wi-Fi AP with MAC: 70:0F:6A:27:15:64   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:29:50]] Connected to Wi-Fi AP with MAC: 70:0F:6A:27:15:64   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:32:08]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:32:18]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:32:28]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -84 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:32:39]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:32:52]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -88 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:33:17]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:33:27]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:33:38]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:33:48]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 11:37:10]] Not connected to Wi-Fi
+[[2024-03-07 11:37:20]] Not connected to Wi-Fi
+[[2024-03-07 11:37:30]] Not connected to Wi-Fi
+[[2024-03-07 11:37:40]] Not connected to Wi-Fi
+[[2024-03-07 11:37:50]] Not connected to Wi-Fi
+[[2024-03-07 11:38:00]] Not connected to Wi-Fi
+[[2024-03-07 11:38:10]] Not connected to Wi-Fi
+[[2024-03-07 11:38:20]] Not connected to Wi-Fi
+[[2024-03-07 11:38:30]] Not connected to Wi-Fi
+[[2024-03-07 11:38:40]] Not connected to Wi-Fi
+[[2024-03-07 11:38:50]] Not connected to Wi-Fi
+[[2024-03-07 11:39:00]] Not connected to Wi-Fi
+[[2024-03-07 11:39:10]] Not connected to Wi-Fi
+[[2024-03-07 11:39:20]] Not connected to Wi-Fi
+[[2024-03-07 11:39:30]] Not connected to Wi-Fi
+[[2024-03-07 11:39:40]] Not connected to Wi-Fi
+[[2024-03-07 11:39:50]] Not connected to Wi-Fi
+[[2024-03-07 11:40:00]] Not connected to Wi-Fi
+[[2024-03-07 11:40:10]] Not connected to Wi-Fi
+[[2024-03-07 11:40:20]] Not connected to Wi-Fi
+[[2024-03-07 11:40:30]] Not connected to Wi-Fi
+[[2024-03-07 11:40:40]] Not connected to Wi-Fi
+[[2024-03-07 11:40:50]] Not connected to Wi-Fi
+[[2024-03-07 11:41:00]] Not connected to Wi-Fi
+[[2024-03-07 11:41:11]] Not connected to Wi-Fi
+[[2024-03-07 11:41:21]] Not connected to Wi-Fi
+[[2024-03-07 11:41:31]] Not connected to Wi-Fi
+[[2024-03-07 11:41:41]] Not connected to Wi-Fi
+[[2024-03-07 11:41:51]] Not connected to Wi-Fi
+[[2024-03-07 11:42:01]] Not connected to Wi-Fi
+[[2024-03-07 11:42:11]] Not connected to Wi-Fi
+[[2024-03-07 11:42:21]] Not connected to Wi-Fi
+[[2024-03-07 11:42:31]] Not connected to Wi-Fi
+[[2024-03-07 11:42:41]] Not connected to Wi-Fi
+[[2024-03-07 11:42:51]] Not connected to Wi-Fi
+[[2024-03-07 11:43:01]] Not connected to Wi-Fi
+[[2024-03-07 11:43:11]] Not connected to Wi-Fi
+[[2024-03-07 11:43:21]] Not connected to Wi-Fi
+[[2024-03-07 11:43:31]] Not connected to Wi-Fi
+[[2024-03-07 11:43:41]] Not connected to Wi-Fi
+[[2024-03-07 11:43:51]] Not connected to Wi-Fi
+[[2024-03-07 11:44:01]] Not connected to Wi-Fi
+[[2024-03-07 11:44:11]] Not connected to Wi-Fi
+[[2024-03-07 11:44:21]] Not connected to Wi-Fi
+[[2024-03-07 11:44:31]] Not connected to Wi-Fi
+[[2024-03-07 11:44:41]] Not connected to Wi-Fi
+[[2024-03-07 11:44:51]] Not connected to Wi-Fi
+[[2024-03-07 11:45:01]] Not connected to Wi-Fi
+[[2024-03-07 11:45:11]] Not connected to Wi-Fi
+[[2024-03-07 11:45:21]] Not connected to Wi-Fi
+[[2024-03-07 11:45:31]] Not connected to Wi-Fi
+[[2024-03-07 11:45:41]] Not connected to Wi-Fi
+[[2024-03-07 11:45:51]] Not connected to Wi-Fi
+[[2024-03-07 11:46:01]] Not connected to Wi-Fi
+[[2024-03-07 11:46:11]] Not connected to Wi-Fi
+[[2024-03-07 11:46:21]] Not connected to Wi-Fi
+[[2024-03-07 11:46:31]] Not connected to Wi-Fi
+[[2024-03-07 11:46:41]] Not connected to Wi-Fi
+[[2024-03-07 11:46:51]] Not connected to Wi-Fi
+[[2024-03-07 11:47:01]] Not connected to Wi-Fi
+[[2024-03-07 11:47:11]] Not connected to Wi-Fi
+[[2024-03-07 11:47:21]] Not connected to Wi-Fi
+[[2024-03-07 11:47:31]] Not connected to Wi-Fi
+[[2024-03-07 11:47:41]] Not connected to Wi-Fi
+[[2024-03-07 11:47:51]] Not connected to Wi-Fi
+[[2024-03-07 11:48:01]] Not connected to Wi-Fi
+[[2024-03-07 11:48:11]] Not connected to Wi-Fi
+[[2024-03-07 11:48:21]] Not connected to Wi-Fi
+[[2024-03-07 11:48:31]] Not connected to Wi-Fi
+[[2024-03-07 11:48:41]] Not connected to Wi-Fi
+[[2024-03-07 11:48:51]] Not connected to Wi-Fi
+[[2024-03-07 11:49:01]] Not connected to Wi-Fi
+[[2024-03-07 11:49:12]] Not connected to Wi-Fi
+[[2024-03-07 11:49:22]] Not connected to Wi-Fi
+[[2024-03-07 11:49:32]] Not connected to Wi-Fi
+[[2024-03-07 11:49:42]] Not connected to Wi-Fi
+[[2024-03-07 11:49:52]] Not connected to Wi-Fi
+[[2024-03-07 11:50:02]] Not connected to Wi-Fi
+[[2024-03-07 11:50:12]] Not connected to Wi-Fi
+[[2024-03-07 11:50:22]] Not connected to Wi-Fi
+[[2024-03-07 11:50:32]] Not connected to Wi-Fi
+[[2024-03-07 11:50:42]] Not connected to Wi-Fi
+[[2024-03-07 11:50:52]] Not connected to Wi-Fi
+[[2024-03-07 11:51:02]] Not connected to Wi-Fi
+[[2024-03-07 11:51:12]] Not connected to Wi-Fi
+[[2024-03-07 11:51:22]] Not connected to Wi-Fi
+[[2024-03-07 11:51:32]] Not connected to Wi-Fi
+[[2024-03-07 11:51:42]] Not connected to Wi-Fi
+[[2024-03-07 11:51:52]] Not connected to Wi-Fi
+[[2024-03-07 11:52:02]] Not connected to Wi-Fi
+[[2024-03-07 11:52:12]] Not connected to Wi-Fi
+[[2024-03-07 11:52:22]] Not connected to Wi-Fi
+[[2024-03-07 11:52:32]] Not connected to Wi-Fi
+[[2024-03-07 11:52:42]] Not connected to Wi-Fi
+[[2024-03-07 11:52:52]] Not connected to Wi-Fi
+[[2024-03-07 11:53:02]] Not connected to Wi-Fi
+[[2024-03-07 11:53:12]] Not connected to Wi-Fi
+[[2024-03-07 11:53:22]] Not connected to Wi-Fi
+[[2024-03-07 11:53:32]] Not connected to Wi-Fi
+[[2024-03-07 11:53:42]] Not connected to Wi-Fi
+[[2024-03-07 11:53:52]] Not connected to Wi-Fi
+[[2024-03-07 11:54:02]] Not connected to Wi-Fi
+[[2024-03-07 11:54:12]] Not connected to Wi-Fi
+[[2024-03-07 11:54:22]] Not connected to Wi-Fi
+[[2024-03-07 11:54:32]] Not connected to Wi-Fi
+[[2024-03-07 11:54:42]] Not connected to Wi-Fi
+[[2024-03-07 11:54:52]] Not connected to Wi-Fi
+[[2024-03-07 11:55:02]] Not connected to Wi-Fi
+[[2024-03-07 11:55:12]] Not connected to Wi-Fi
+[[2024-03-07 11:55:22]] Not connected to Wi-Fi
+[[2024-03-07 11:55:32]] Not connected to Wi-Fi
+[[2024-03-07 11:55:42]] Not connected to Wi-Fi
+[[2024-03-07 11:55:52]] Not connected to Wi-Fi
+[[2024-03-07 11:56:02]] Not connected to Wi-Fi
+[[2024-03-07 11:56:12]] Not connected to Wi-Fi
+[[2024-03-07 11:56:22]] Not connected to Wi-Fi
+[[2024-03-07 11:56:32]] Not connected to Wi-Fi
+[[2024-03-07 11:56:42]] Not connected to Wi-Fi
+[[2024-03-07 11:56:52]] Not connected to Wi-Fi
+[[2024-03-07 11:57:03]] Not connected to Wi-Fi
+[[2024-03-07 11:57:13]] Not connected to Wi-Fi
+[[2024-03-07 11:57:23]] Not connected to Wi-Fi
+[[2024-03-07 11:57:33]] Not connected to Wi-Fi
+[[2024-03-07 11:57:43]] Not connected to Wi-Fi
+[[2024-03-07 11:57:53]] Not connected to Wi-Fi
+[[2024-03-07 11:58:03]] Not connected to Wi-Fi
+[[2024-03-07 11:58:13]] Not connected to Wi-Fi
+[[2024-03-07 11:58:23]] Not connected to Wi-Fi
+[[2024-03-07 11:58:33]] Not connected to Wi-Fi
+[[2024-03-07 11:58:43]] Not connected to Wi-Fi
+[[2024-03-07 11:58:53]] Not connected to Wi-Fi
+[[2024-03-07 11:59:03]] Not connected to Wi-Fi
+[[2024-03-07 11:59:13]] Not connected to Wi-Fi
+[[2024-03-07 11:59:23]] Not connected to Wi-Fi
+[[2024-03-07 11:59:33]] Not connected to Wi-Fi
+[[2024-03-07 11:59:43]] Not connected to Wi-Fi
+[[2024-03-07 11:59:53]] Not connected to Wi-Fi
+[[2024-03-07 12:00:03]] Not connected to Wi-Fi
+[[2024-03-07 12:00:13]] Not connected to Wi-Fi
+[[2024-03-07 12:00:23]] Not connected to Wi-Fi
+[[2024-03-07 12:00:33]] Not connected to Wi-Fi
+[[2024-03-07 12:00:43]] Not connected to Wi-Fi
+[[2024-03-07 12:00:53]] Not connected to Wi-Fi
+[[2024-03-07 12:01:03]] Not connected to Wi-Fi
+[[2024-03-07 12:01:13]] Not connected to Wi-Fi
+[[2024-03-07 12:01:23]] Not connected to Wi-Fi
+[[2024-03-07 12:01:33]] Not connected to Wi-Fi
+[[2024-03-07 12:01:43]] Not connected to Wi-Fi
+[[2024-03-07 12:01:53]] Not connected to Wi-Fi
+[[2024-03-07 12:02:03]] Not connected to Wi-Fi
+[[2024-03-07 12:02:13]] Not connected to Wi-Fi
+[[2024-03-07 12:02:23]] Not connected to Wi-Fi
+[[2024-03-07 12:02:33]] Not connected to Wi-Fi
+[[2024-03-07 12:02:43]] Not connected to Wi-Fi
+[[2024-03-07 12:02:53]] Not connected to Wi-Fi
+[[2024-03-07 12:03:03]] Not connected to Wi-Fi
+[[2024-03-07 12:03:13]] Not connected to Wi-Fi
+[[2024-03-07 12:03:23]] Not connected to Wi-Fi
+[[2024-03-07 12:03:33]] Not connected to Wi-Fi
+[[2024-03-07 12:03:43]] Not connected to Wi-Fi
+[[2024-03-07 12:03:53]] Not connected to Wi-Fi
+[[2024-03-07 12:04:03]] Not connected to Wi-Fi
+[[2024-03-07 12:04:13]] Not connected to Wi-Fi
+[[2024-03-07 12:04:23]] Not connected to Wi-Fi
+[[2024-03-07 12:04:33]] Not connected to Wi-Fi
+[[2024-03-07 12:04:43]] Not connected to Wi-Fi
+[[2024-03-07 12:04:53]] Not connected to Wi-Fi
+[[2024-03-07 12:05:04]] Not connected to Wi-Fi
+[[2024-03-07 12:05:14]] Not connected to Wi-Fi
+[[2024-03-07 12:05:24]] Not connected to Wi-Fi
+[[2024-03-07 12:05:34]] Not connected to Wi-Fi
+[[2024-03-07 12:05:44]] Not connected to Wi-Fi
+[[2024-03-07 12:05:54]] Not connected to Wi-Fi
+[[2024-03-07 12:06:04]] Not connected to Wi-Fi
+[[2024-03-07 12:06:14]] Not connected to Wi-Fi
+[[2024-03-07 12:06:24]] Not connected to Wi-Fi
+[[2024-03-07 12:06:34]] Not connected to Wi-Fi
+[[2024-03-07 12:06:44]] Not connected to Wi-Fi
+[[2024-03-07 12:06:54]] Not connected to Wi-Fi
+[[2024-03-07 12:07:04]] Not connected to Wi-Fi
+[[2024-03-07 12:07:14]] Not connected to Wi-Fi
+[[2024-03-07 12:07:24]] Not connected to Wi-Fi
+[[2024-03-07 12:07:34]] Not connected to Wi-Fi
+[[2024-03-07 12:07:44]] Not connected to Wi-Fi
+[[2024-03-07 12:07:54]] Not connected to Wi-Fi
+[[2024-03-07 12:08:04]] Not connected to Wi-Fi
+[[2024-03-07 12:08:14]] Not connected to Wi-Fi
+[[2024-03-07 12:08:24]] Not connected to Wi-Fi
+[[2024-03-07 12:08:34]] Not connected to Wi-Fi
+[[2024-03-07 12:08:44]] Not connected to Wi-Fi
+[[2024-03-07 12:08:54]] Not connected to Wi-Fi
+[[2024-03-07 12:09:04]] Not connected to Wi-Fi
+[[2024-03-07 12:09:14]] Not connected to Wi-Fi
+[[2024-03-07 12:09:24]] Not connected to Wi-Fi
+[[2024-03-07 12:09:34]] Not connected to Wi-Fi
+[[2024-03-07 12:09:44]] Not connected to Wi-Fi
+[[2024-03-07 12:09:54]] Not connected to Wi-Fi
+[[2024-03-07 12:10:04]] Not connected to Wi-Fi
+[[2024-03-07 12:10:14]] Not connected to Wi-Fi
+[[2024-03-07 12:10:24]] Not connected to Wi-Fi
+[[2024-03-07 12:10:34]] Not connected to Wi-Fi
+[[2024-03-07 12:10:44]] Not connected to Wi-Fi
+[[2024-03-07 12:10:54]] Not connected to Wi-Fi
+[[2024-03-07 12:11:04]] Not connected to Wi-Fi
+[[2024-03-07 12:11:14]] Not connected to Wi-Fi
+[[2024-03-07 12:11:24]] Not connected to Wi-Fi
+[[2024-03-07 12:11:34]] Not connected to Wi-Fi
+[[2024-03-07 12:11:44]] Not connected to Wi-Fi
+[[2024-03-07 12:11:54]] Not connected to Wi-Fi
+[[2024-03-07 12:12:04]] Not connected to Wi-Fi
+[[2024-03-07 12:12:14]] Not connected to Wi-Fi
+[[2024-03-07 12:12:24]] Not connected to Wi-Fi
+[[2024-03-07 12:12:34]] Not connected to Wi-Fi
+[[2024-03-07 12:12:44]] Not connected to Wi-Fi
+[[2024-03-07 12:12:55]] Not connected to Wi-Fi
+[[2024-03-07 12:13:05]] Not connected to Wi-Fi
+[[2024-03-07 12:13:15]] Not connected to Wi-Fi
+[[2024-03-07 12:13:25]] Not connected to Wi-Fi
+[[2024-03-07 12:13:35]] Not connected to Wi-Fi
+[[2024-03-07 12:13:45]] Not connected to Wi-Fi
+[[2024-03-07 12:13:55]] Not connected to Wi-Fi
+[[2024-03-07 12:14:05]] Not connected to Wi-Fi
+[[2024-03-07 12:14:15]] Not connected to Wi-Fi
+[[2024-03-07 12:14:25]] Not connected to Wi-Fi
+[[2024-03-07 12:14:35]] Not connected to Wi-Fi
+[[2024-03-07 12:14:45]] Not connected to Wi-Fi
+[[2024-03-07 12:14:55]] Not connected to Wi-Fi
+[[2024-03-07 12:15:05]] Not connected to Wi-Fi
+[[2024-03-07 12:15:15]] Not connected to Wi-Fi
+[[2024-03-07 12:15:25]] Not connected to Wi-Fi
+[[2024-03-07 12:15:35]] Not connected to Wi-Fi
+[[2024-03-07 12:15:45]] Not connected to Wi-Fi
+[[2024-03-07 12:15:55]] Not connected to Wi-Fi
+[[2024-03-07 12:16:05]] Not connected to Wi-Fi
+[[2024-03-07 12:16:15]] Not connected to Wi-Fi
+[[2024-03-07 12:16:25]] Not connected to Wi-Fi
+[[2024-03-07 12:16:35]] Not connected to Wi-Fi
+[[2024-03-07 12:16:45]] Not connected to Wi-Fi
+[[2024-03-07 12:16:55]] Not connected to Wi-Fi
+[[2024-03-07 12:17:05]] Not connected to Wi-Fi
+[[2024-03-07 12:17:15]] Not connected to Wi-Fi
+[[2024-03-07 12:17:25]] Not connected to Wi-Fi
+[[2024-03-07 12:17:35]] Not connected to Wi-Fi
+[[2024-03-07 12:17:45]] Not connected to Wi-Fi
+[[2024-03-07 12:17:55]] Not connected to Wi-Fi
+[[2024-03-07 12:18:05]] Not connected to Wi-Fi
+[[2024-03-07 12:18:15]] Not connected to Wi-Fi
+[[2024-03-07 12:18:25]] Not connected to Wi-Fi
+[[2024-03-07 12:18:35]] Not connected to Wi-Fi
+[[2024-03-07 12:18:45]] Not connected to Wi-Fi
+[[2024-03-07 12:18:55]] Not connected to Wi-Fi
+[[2024-03-07 12:19:05]] Not connected to Wi-Fi
+[[2024-03-07 12:19:15]] Not connected to Wi-Fi
+[[2024-03-07 12:19:25]] Not connected to Wi-Fi
+[[2024-03-07 12:19:35]] Not connected to Wi-Fi
+[[2024-03-07 12:19:45]] Not connected to Wi-Fi
+[[2024-03-07 12:19:55]] Not connected to Wi-Fi
+[[2024-03-07 12:20:05]] Not connected to Wi-Fi
+[[2024-03-07 12:20:15]] Not connected to Wi-Fi
+[[2024-03-07 12:20:25]] Not connected to Wi-Fi
+[[2024-03-07 12:20:35]] Not connected to Wi-Fi
+[[2024-03-07 12:20:45]] Not connected to Wi-Fi
+[[2024-03-07 12:20:56]] Not connected to Wi-Fi
+[[2024-03-07 12:21:06]] Not connected to Wi-Fi
+[[2024-03-07 12:21:16]] Not connected to Wi-Fi
+[[2024-03-07 12:21:26]] Not connected to Wi-Fi
+[[2024-03-07 12:21:36]] Not connected to Wi-Fi
+[[2024-03-07 12:21:46]] Not connected to Wi-Fi
+[[2024-03-07 12:21:56]] Not connected to Wi-Fi
+[[2024-03-07 12:22:06]] Not connected to Wi-Fi
+[[2024-03-07 12:22:16]] Not connected to Wi-Fi
+[[2024-03-07 12:22:26]] Not connected to Wi-Fi
+[[2024-03-07 12:22:36]] Not connected to Wi-Fi
+[[2024-03-07 12:22:46]] Not connected to Wi-Fi
+[[2024-03-07 12:22:56]] Not connected to Wi-Fi
+[[2024-03-07 12:23:06]] Not connected to Wi-Fi
+[[2024-03-07 12:23:16]] Not connected to Wi-Fi
+[[2024-03-07 12:23:26]] Not connected to Wi-Fi
+[[2024-03-07 12:23:36]] Not connected to Wi-Fi
+[[2024-03-07 12:23:46]] Not connected to Wi-Fi
+[[2024-03-07 12:23:56]] Not connected to Wi-Fi
+[[2024-03-07 12:24:06]] Not connected to Wi-Fi
+[[2024-03-07 12:24:16]] Not connected to Wi-Fi
+[[2024-03-07 12:24:26]] Not connected to Wi-Fi
+[[2024-03-07 12:24:36]] Not connected to Wi-Fi
+[[2024-03-07 12:24:46]] Not connected to Wi-Fi
+[[2024-03-07 12:24:56]] Not connected to Wi-Fi
+[[2024-03-07 12:25:06]] Not connected to Wi-Fi
+[[2024-03-07 12:25:16]] Not connected to Wi-Fi
+[[2024-03-07 12:25:26]] Not connected to Wi-Fi
+[[2024-03-07 12:25:36]] Not connected to Wi-Fi
+[[2024-03-07 12:25:46]] Not connected to Wi-Fi
+[[2024-03-07 12:25:56]] Not connected to Wi-Fi
+[[2024-03-07 12:26:06]] Not connected to Wi-Fi
+[[2024-03-07 12:26:16]] Not connected to Wi-Fi
+[[2024-03-07 12:26:26]] Not connected to Wi-Fi
+[[2024-03-07 12:26:36]] Not connected to Wi-Fi
+[[2024-03-07 12:26:46]] Not connected to Wi-Fi
+[[2024-03-07 12:26:56]] Not connected to Wi-Fi
+[[2024-03-07 12:27:06]] Not connected to Wi-Fi
+[[2024-03-07 12:27:16]] Not connected to Wi-Fi
+[[2024-03-07 12:27:26]] Not connected to Wi-Fi
+[[2024-03-07 12:27:36]] Not connected to Wi-Fi
+[[2024-03-07 12:27:46]] Not connected to Wi-Fi
+[[2024-03-07 12:27:56]] Not connected to Wi-Fi
+[[2024-03-07 12:28:06]] Not connected to Wi-Fi
+[[2024-03-07 12:28:16]] Not connected to Wi-Fi
+[[2024-03-07 12:28:26]] Not connected to Wi-Fi
+[[2024-03-07 12:28:36]] Not connected to Wi-Fi
+[[2024-03-07 12:28:47]] Not connected to Wi-Fi
+[[2024-03-07 12:28:57]] Not connected to Wi-Fi
+[[2024-03-07 12:29:07]] Not connected to Wi-Fi
+[[2024-03-07 12:29:17]] Not connected to Wi-Fi
+[[2024-03-07 12:29:27]] Not connected to Wi-Fi
+[[2024-03-07 12:29:37]] Not connected to Wi-Fi
+[[2024-03-07 12:29:47]] Not connected to Wi-Fi
+[[2024-03-07 12:29:57]] Not connected to Wi-Fi
+[[2024-03-07 12:30:07]] Not connected to Wi-Fi
+[[2024-03-07 12:30:17]] Not connected to Wi-Fi
+[[2024-03-07 12:30:27]] Not connected to Wi-Fi
+[[2024-03-07 12:30:37]] Not connected to Wi-Fi
+[[2024-03-07 12:30:47]] Not connected to Wi-Fi
+[[2024-03-07 12:30:57]] Not connected to Wi-Fi
+[[2024-03-07 12:31:07]] Not connected to Wi-Fi
+[[2024-03-07 12:31:17]] Not connected to Wi-Fi
+[[2024-03-07 12:31:27]] Not connected to Wi-Fi
+[[2024-03-07 12:31:37]] Not connected to Wi-Fi
+[[2024-03-07 12:31:47]] Not connected to Wi-Fi
+[[2024-03-07 12:31:57]] Not connected to Wi-Fi
+[[2024-03-07 12:32:07]] Not connected to Wi-Fi
+[[2024-03-07 12:32:17]] Not connected to Wi-Fi
+[[2024-03-07 12:32:27]] Not connected to Wi-Fi
+[[2024-03-07 12:32:37]] Not connected to Wi-Fi
+[[2024-03-07 12:32:47]] Not connected to Wi-Fi
+[[2024-03-07 12:32:57]] Not connected to Wi-Fi
+[[2024-03-07 12:33:07]] Not connected to Wi-Fi
+[[2024-03-07 12:33:17]] Not connected to Wi-Fi
+[[2024-03-07 12:33:27]] Not connected to Wi-Fi
+[[2024-03-07 12:33:37]] Not connected to Wi-Fi
+[[2024-03-07 12:33:47]] Not connected to Wi-Fi
+[[2024-03-07 12:33:57]] Not connected to Wi-Fi
+[[2024-03-07 12:34:07]] Not connected to Wi-Fi
+[[2024-03-07 12:34:17]] Not connected to Wi-Fi
+[[2024-03-07 12:34:27]] Not connected to Wi-Fi
+[[2024-03-07 12:34:37]] Not connected to Wi-Fi
+[[2024-03-07 12:34:47]] Not connected to Wi-Fi
+[[2024-03-07 12:34:57]] Not connected to Wi-Fi
+[[2024-03-07 12:35:07]] Not connected to Wi-Fi
+[[2024-03-07 12:35:17]] Not connected to Wi-Fi
+[[2024-03-07 12:35:27]] Not connected to Wi-Fi
+[[2024-03-07 12:35:37]] Not connected to Wi-Fi
+[[2024-03-07 12:35:47]] Not connected to Wi-Fi
+[[2024-03-07 12:35:57]] Not connected to Wi-Fi
+[[2024-03-07 12:36:07]] Not connected to Wi-Fi
+[[2024-03-07 12:36:17]] Not connected to Wi-Fi
+[[2024-03-07 12:36:27]] Not connected to Wi-Fi
+[[2024-03-07 12:36:37]] Not connected to Wi-Fi
+[[2024-03-07 12:36:48]] Not connected to Wi-Fi
+[[2024-03-07 12:36:58]] Not connected to Wi-Fi
+[[2024-03-07 12:37:08]] Not connected to Wi-Fi
+[[2024-03-07 12:37:18]] Not connected to Wi-Fi
+[[2024-03-07 12:37:28]] Not connected to Wi-Fi
+[[2024-03-07 12:37:38]] Not connected to Wi-Fi
+[[2024-03-07 12:37:48]] Not connected to Wi-Fi
+[[2024-03-07 12:37:58]] Not connected to Wi-Fi
+[[2024-03-07 12:38:08]] Not connected to Wi-Fi
+[[2024-03-07 12:38:18]] Not connected to Wi-Fi
+[[2024-03-07 12:38:28]] Not connected to Wi-Fi
+[[2024-03-07 12:38:38]] Not connected to Wi-Fi
+[[2024-03-07 12:38:48]] Not connected to Wi-Fi
+[[2024-03-07 12:38:58]] Not connected to Wi-Fi
+[[2024-03-07 12:39:08]] Not connected to Wi-Fi
+[[2024-03-07 12:39:18]] Not connected to Wi-Fi
+[[2024-03-07 12:39:28]] Not connected to Wi-Fi
+[[2024-03-07 12:39:38]] Not connected to Wi-Fi
+[[2024-03-07 12:39:48]] Not connected to Wi-Fi
+[[2024-03-07 12:39:58]] Not connected to Wi-Fi
+[[2024-03-07 12:40:08]] Not connected to Wi-Fi
+[[2024-03-07 12:40:18]] Not connected to Wi-Fi
+[[2024-03-07 12:40:28]] Not connected to Wi-Fi
+[[2024-03-07 12:40:38]] Not connected to Wi-Fi
+[[2024-03-07 12:40:48]] Not connected to Wi-Fi
+[[2024-03-07 12:40:58]] Not connected to Wi-Fi
+[[2024-03-07 12:41:08]] Not connected to Wi-Fi
+[[2024-03-07 12:41:18]] Not connected to Wi-Fi
+[[2024-03-07 12:41:28]] Not connected to Wi-Fi
+[[2024-03-07 12:41:38]] Not connected to Wi-Fi
+[[2024-03-07 12:41:48]] Not connected to Wi-Fi
+[[2024-03-07 12:41:58]] Not connected to Wi-Fi
+[[2024-03-07 12:42:08]] Not connected to Wi-Fi
+[[2024-03-07 12:42:18]] Not connected to Wi-Fi
+[[2024-03-07 12:42:28]] Not connected to Wi-Fi
+[[2024-03-07 12:42:38]] Not connected to Wi-Fi
+[[2024-03-07 12:42:48]] Not connected to Wi-Fi
+[[2024-03-07 12:42:58]] Not connected to Wi-Fi
+[[2024-03-07 12:43:08]] Not connected to Wi-Fi
+[[2024-03-07 12:43:18]] Not connected to Wi-Fi
+[[2024-03-07 12:43:28]] Not connected to Wi-Fi
+[[2024-03-07 12:43:38]] Not connected to Wi-Fi
+[[2024-03-07 12:43:48]] Not connected to Wi-Fi
+[[2024-03-07 12:43:58]] Not connected to Wi-Fi
+[[2024-03-07 12:44:08]] Not connected to Wi-Fi
+[[2024-03-07 12:44:18]] Not connected to Wi-Fi
+[[2024-03-07 12:44:28]] Not connected to Wi-Fi
+[[2024-03-07 12:44:39]] Not connected to Wi-Fi
+[[2024-03-07 12:44:49]] Not connected to Wi-Fi
+[[2024-03-07 12:44:59]] Not connected to Wi-Fi
+[[2024-03-07 12:45:09]] Not connected to Wi-Fi
+[[2024-03-07 12:45:19]] Not connected to Wi-Fi
+[[2024-03-07 12:45:29]] Not connected to Wi-Fi
+[[2024-03-07 12:45:39]] Not connected to Wi-Fi
+[[2024-03-07 12:45:49]] Not connected to Wi-Fi
+[[2024-03-07 12:45:59]] Not connected to Wi-Fi
+[[2024-03-07 12:46:09]] Not connected to Wi-Fi
+[[2024-03-07 12:46:19]] Not connected to Wi-Fi
+[[2024-03-07 12:46:29]] Not connected to Wi-Fi
+[[2024-03-07 12:46:39]] Not connected to Wi-Fi
+[[2024-03-07 12:46:49]] Not connected to Wi-Fi
+[[2024-03-07 12:46:59]] Not connected to Wi-Fi
+[[2024-03-07 12:47:09]] Not connected to Wi-Fi
+[[2024-03-07 12:47:19]] Not connected to Wi-Fi
+[[2024-03-07 12:47:29]] Not connected to Wi-Fi
+[[2024-03-07 12:47:39]] Not connected to Wi-Fi
+[[2024-03-07 12:47:49]] Not connected to Wi-Fi
+[[2024-03-07 12:47:59]] Not connected to Wi-Fi
+[[2024-03-07 12:48:09]] Not connected to Wi-Fi
+[[2024-03-07 12:48:19]] Not connected to Wi-Fi
+[[2024-03-07 12:48:29]] Not connected to Wi-Fi
+[[2024-03-07 12:48:39]] Not connected to Wi-Fi
+[[2024-03-07 12:48:49]] Not connected to Wi-Fi
+[[2024-03-07 12:48:59]] Not connected to Wi-Fi
+[[2024-03-07 12:49:09]] Not connected to Wi-Fi
+[[2024-03-07 12:49:19]] Not connected to Wi-Fi
+[[2024-03-07 12:49:29]] Not connected to Wi-Fi
+[[2024-03-07 12:49:39]] Not connected to Wi-Fi
+[[2024-03-07 12:49:49]] Not connected to Wi-Fi
+[[2024-03-07 12:49:59]] Not connected to Wi-Fi
+[[2024-03-07 12:50:09]] Not connected to Wi-Fi
+[[2024-03-07 12:50:19]] Not connected to Wi-Fi
+[[2024-03-07 12:50:29]] Not connected to Wi-Fi
+[[2024-03-07 12:50:39]] Not connected to Wi-Fi
+[[2024-03-07 12:50:49]] Not connected to Wi-Fi
+[[2024-03-07 12:50:59]] Not connected to Wi-Fi
+[[2024-03-07 12:51:09]] Not connected to Wi-Fi
+[[2024-03-07 12:51:19]] Not connected to Wi-Fi
+[[2024-03-07 12:51:29]] Not connected to Wi-Fi
+[[2024-03-07 12:51:39]] Not connected to Wi-Fi
+[[2024-03-07 12:51:49]] Not connected to Wi-Fi
+[[2024-03-07 12:51:59]] Not connected to Wi-Fi
+[[2024-03-07 12:52:09]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -66 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:52:20]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:52:30]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:52:40]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:52:50]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:53:01]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -86 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:53:13]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:97:E4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 12:56:37]] Not connected to Wi-Fi
+[[2024-03-07 12:56:47]] Not connected to Wi-Fi
+[[2024-03-07 12:56:57]] Not connected to Wi-Fi
+[[2024-03-07 12:57:07]] Not connected to Wi-Fi
+[[2024-03-07 12:57:17]] Not connected to Wi-Fi
+[[2024-03-07 12:57:27]] Not connected to Wi-Fi
+[[2024-03-07 12:57:37]] Not connected to Wi-Fi
+[[2024-03-07 12:57:48]] Not connected to Wi-Fi
+[[2024-03-07 12:57:58]] Not connected to Wi-Fi
+[[2024-03-07 12:58:08]] Not connected to Wi-Fi
+[[2024-03-07 12:58:18]] Not connected to Wi-Fi
+[[2024-03-07 12:58:28]] Not connected to Wi-Fi
+[[2024-03-07 12:58:38]] Not connected to Wi-Fi
+[[2024-03-07 12:58:48]] Not connected to Wi-Fi
+[[2024-03-07 12:58:58]] Not connected to Wi-Fi
+[[2024-03-07 12:59:08]] Not connected to Wi-Fi
+[[2024-03-07 12:59:18]] Not connected to Wi-Fi
+[[2024-03-07 12:59:28]] Not connected to Wi-Fi
+[[2024-03-07 12:59:38]] Not connected to Wi-Fi
+[[2024-03-07 12:59:48]] Not connected to Wi-Fi
+[[2024-03-07 12:59:58]] Not connected to Wi-Fi
+[[2024-03-07 13:00:08]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:00:18]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -71 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:00:28]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -66 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:00:38]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -69 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:00:49]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:00:59]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:01:10]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:01:22]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:01:35]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9B:04   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:01:56]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:02:06]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:02:16]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:02:32]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:A9:84   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:05:56]] Not connected to Wi-Fi
+[[2024-03-07 13:06:06]] Not connected to Wi-Fi
+[[2024-03-07 13:06:16]] Not connected to Wi-Fi
+[[2024-03-07 13:06:26]] Not connected to Wi-Fi
+[[2024-03-07 13:06:36]] Not connected to Wi-Fi
+[[2024-03-07 13:06:46]] Not connected to Wi-Fi
+[[2024-03-07 13:06:56]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -61 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:07:06]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -61 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:07:17]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:07:27]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:98:C4   , Signal Strength: -88 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:08:19]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9D:E4   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:08:30]] Not connected to Wi-Fi
+[[2024-03-07 13:08:40]] Not connected to Wi-Fi
+[[2024-03-07 13:08:50]] Not connected to Wi-Fi
+[[2024-03-07 13:09:00]] Not connected to Wi-Fi
+[[2024-03-07 13:09:10]] Not connected to Wi-Fi
+[[2024-03-07 13:09:20]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:10:05]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -85 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:10:27]] Connected to Wi-Fi AP with MAC: 70:0F:6A:B8:9F:C4   , Signal Strength: -87 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:12:11]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:12:22]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:12:35]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:12:46]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:12:57]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:13:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:13:24]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:13:34]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:13:45]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:13:56]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:14:06]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:14:16]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:14:27]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:14:39]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:14:51]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:15:02]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:15:13]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:15:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:15:40]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:15:52]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:16:02]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:16:14]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:16:35]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:16:56]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:17:06]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:17:17]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:17:28]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -72 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:17:41]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:17:55]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:18:09]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:18:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:18:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:18:44]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:18:55]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:19:16]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:19:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:19:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:20:02]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:20:15]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:20:54]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:21:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:21:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:21:37]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:21:48]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:21:59]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:22:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:22:28]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:22:39]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:22:50]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:23:06]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:23:18]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:23:34]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:23:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:23:58]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:24:10]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:24:39]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:24:56]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:25:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:25:21]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:25:38]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:25:49]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:00]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:35]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:46]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:26:57]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:27:11]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:27:22]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:27:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:27:45]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:27:57]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:28:09]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:28:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:28:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:28:44]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:28:55]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:29:06]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:29:16]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:29:28]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:29:40]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:29:51]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:03]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:14]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:36]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:30:58]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:31:09]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:31:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:31:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:31:46]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:32:00]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:32:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:32:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:32:42]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:32:59]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:33:11]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:33:23]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:33:34]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:33:45]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:33:59]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:34:11]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:34:22]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:34:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:34:44]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:34:58]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:35:09]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:35:21]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:35:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:35:42]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:35:55]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:36:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:36:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:36:31]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:36:42]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:36:56]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:37:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:37:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:37:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:37:45]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:38:01]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:38:13]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:38:24]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:38:35]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:38:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:39:05]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:39:23]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:39:38]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:40:06]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:04]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:14]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:37]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:41:58]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:42:13]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:42:26]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:42:37]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:42:48]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:43:01]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:43:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:43:23]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:43:37]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:43:51]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:44:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:44:17]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:44:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:44:44]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:44:57]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:45:10]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:45:24]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:45:36]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:45:48]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:45:59]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:46:10]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:46:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:46:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:46:42]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:46:56]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:47:07]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:47:22]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:47:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:47:44]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:47:54]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:48:10]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:48:21]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:48:34]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:48:50]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:50:19]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:50:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:50:46]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:50:57]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:51:08]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:51:19]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:51:32]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:51:42]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:51:53]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:52:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:52:23]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -73 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:52:35]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:52:49]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:53:01]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:53:12]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:53:25]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:53:47]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:54:04]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:54:20]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:54:33]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:54:48]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:57:14]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:57:30]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -80 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:57:50]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:58:37]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:58:58]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:59:10]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:59:23]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:59:38]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 13:59:50]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -84 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:00:31]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:00:51]] Connected to Wi-Fi AP with MAC: 2C:5A:0F:05:82:E4   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:02:56]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -80 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:06]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:16]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:27]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -77 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:37]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -79 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:49]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -80 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:03:59]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -81 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:04:10]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:04:20]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -83 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:04:30]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -80 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:04:41]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -80 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:04:51]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:01]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -82 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:12]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -76 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:22]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -74 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:32]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -78 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:43]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -68 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db
+[[2024-03-07 14:05:53]] Connected to Wi-Fi AP with MAC: 70:0F:6A:54:64:64   , Signal Strength: -75 dBm  , Bus054_MAC: b8:27:eb:9b:3b:db

@@ -7,7 +7,10 @@ import os
 import glob
 from sqlalchemy import create_engine, select
 import schedule
-directory_path = 'logs/*.txt'
+import shutil
+
+directory_path = "C:/Users/Ramonetha/Documents/Test/*.txt"
+target_directory = "logs/"
 def schedule_job():
     # Use glob to get a list of all files with .txt extension in the specified directory
     txt_files = glob.glob(directory_path)
@@ -19,16 +22,23 @@ def schedule_job():
             for line in file:
                 connection_list.append(line.strip())
 
-
-    txt_files = glob.glob(directory_path)
-
-    # Iterate through each text file and delete it
     for txt_file in txt_files:
         try:
-            os.remove(txt_file)
-            print(f"File {txt_file} deleted successfully.")
-        except OSError as e:
-            print(f"Error deleting file {txt_file}: {e}")
+            if not os.path.exists(target_directory):
+                os.makedirs(target_directory)
+            
+            target_path = os.path.join(target_directory,os.path.basename(txt_file))
+
+            shutil.copy(txt_file,target_path)
+
+        except Exception as e:
+            print(f"Error moving file {txt_file} : {e}")
+        
+        # try:
+        #     os.remove(txt_file)
+        # except Exception as e:
+        #     print(f"Error removing file {txt_file} : {e}")
+
     # Define a regular expression pattern
     pattern = r'\[\[(.*?)\]\](.*)'
 
